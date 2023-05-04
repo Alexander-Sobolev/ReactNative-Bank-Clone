@@ -6,3 +6,4 @@ yarn add react-native-screens react-native-safe-area-context
 expo install @react-navigation/native-stack
 
 npx expo install react-native-safe-area-context@4.5.0
+
