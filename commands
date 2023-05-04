@@ -1,0 +1,8 @@
+npx create-expo-app -t expo-template-blank-typescript
+yarn add dayjs firebase tailwind-rn react-native-stories-view
+yarn expo install expo-linear-gradient
+yarn add @react-navigation/native
+yarn add react-native-screens react-native-safe-area-context
+expo install @react-navigation/native-stack
+
+npx expo install react-native-safe-area-context@4.5.0
